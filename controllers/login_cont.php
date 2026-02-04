@@ -1,6 +1,6 @@
 <?php
 session_start();
-
+//config
 require '../models/config.php'; 
 
 ini_set('display_errors', 1);
