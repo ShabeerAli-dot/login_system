@@ -1,6 +1,6 @@
 <?php
 session_start();
-// Updated path to look inside the models folder
+
 require '../models/config.php'; 
 
 ini_set('display_errors', 1);
